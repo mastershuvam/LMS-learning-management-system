@@ -19,6 +19,7 @@
   "dependencies": {
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.2"
   }
 }
