@@ -1,5 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
+import cookieParser from "cookie-parser";
 
 
 dotenv.config({});
@@ -11,6 +12,10 @@ const PORT = process.env.PORT || 3000;
 
 // default middleware
 app.use(express.json());
+app.use(cookieParser());
+
+// import routes
+ 
  
  
 app.listen(PORT, () => {
