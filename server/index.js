@@ -47,21 +47,3 @@ app.listen(PORT, () => {
 })
 
 
-
-
-
-
-
-// PORT = 3000
-// STRIPE_SECRET_KEY = sk_test_51QX4i103qU4qcLpWTOgQ5BUfzJbsKfO1Y2QozSi8RlObl0zVzbAujnfi3y59a2MjrK8hkqHJ9BNWOOFdltsErr1F004xZewckg
-// STRIPE_PUBLISHABLE_KEY = pk_test_51QX4i103qU4qcLpWwDWiQJVovdwIldzNJrOCxV4WAmJGD7RmNMlLdKEMnWezZZvA662FXNvlLZJ52oX5JcZGoT8O00MAGlg0yO
-// MONGO_URI = mongodb+srv://dasramesh8343003905:RNoQWmXVkOxXUXhb@cluster0.zuqwf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-// WEBHOOK_ENDPOINT_SECRET = whsec_2ISA16HcLW26gCM2W9TK5Vav66KpME22
-// SECRET_KEY = mysecretkey
-// CLOUD_NAME = duysrrvn9
-// API_KEY = 955428786291228
-// AP1_SECRET = Xu2zPaSlk4nncc1twv8D6ibn4WU
-// FRONTEND_URL = http://localhost:5173
-// NODE_ENV = development
-
-
