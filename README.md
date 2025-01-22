@@ -85,4 +85,6 @@ To start the frontend client of the "Code & Coffee" platform:
 <img width="419" alt="Screenshot 2025-01-20 at 10 06 17 PM" src="https://github.com/user-attachments/assets/37809185-833d-438e-92c2-817f817e4d7a" />
 
 
+## Live Demo
+Check out the live application here: [Lms Live]([https://bytechat.onrender.com](https://lms-learning-management-system-tlh7.onrender.com/))
 
